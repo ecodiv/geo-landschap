@@ -12,10 +12,10 @@ external_link: ""
 url_slides: ""
 title: OSGeo.nl
 tags:
+  - organisaties
+categories:
   - opensource
   - geo
-categories:
-  - Organisaties
 links:
   - url: https://osgeo.nl
     name: OSGEO.NL website
