@@ -1,6 +1,6 @@
 ---
 title: Nederlandse QGIS gebruikersgroep
-summary: De Nederlandse QGIS community ondersteunt en promoot het gebruik en de ontwikkeling van QGIS.
+summary: De vereniging QGISnl ondersteunt en promoot het gebruik en de ontwikkeling van QGIS.
 tags:
 - open source
 - geo
@@ -37,9 +37,9 @@ url_video: ""
 #   slides: example
 ---
 
-Nederlandse QGIS gebruikerscommunity is een vereniging met leden die QGIS gerelateerde activiteiten ondersteunt. 
+De Nederlandse QGIS gebruikersgroep is een vereniging met leden die QGIS gerelateerde activiteiten ondersteunt. Dit doen QGISnl onder andere door het organiseren van QGIS gebruikersdagen en andere inhoudelijke bijeenkomsten en zorgen voor zichtbaarheid op beurzen en congressen van derden.
 
-QGISnl is ook de officiële lokale gebruikersgroep en heeft als zodanig een ‘QGIS Country User Group Voting Member’. Dat betekent dat de leden van QGISnl via de Voting Member invloed hebben op de ontwikkelingsrichting van [QGIS]({{< ref "/organisaties/QGIS-org" >}} "QGIS").
+QGISnl is ook de officiële lokale gebruikersgroep binnen QGIS.org en heeft als zodanig een ‘QGIS Country User Group Voting Member’. Dat betekent dat de leden van QGISnl via de Voting Member invloed hebben op de ontwikkelingsrichting van [QGIS]({{< ref "/organisaties/QGIS-org" >}} "QGIS").
 
-Om bij te dragen aan de ontwikkeling van QGIS (code, documentatie, vertaling, etc.) hoef je geen lid te zijn van QGISnl.
-QGISnl kent een Nederlandstalige Matrix-groep voor [online communicatie](https://qgis.nl/2020/12/10/communicatieplatform-gebruikersvereniging/) tussen de leden. 
+Om bij te dragen aan de ontwikkeling van QGIS (code, documentatie, vertaling, etc.) hoef je geen lid te zijn van QGISnl.< /br>
+QGISnl kent een Nederlandstalige Matrix/Element groep voor [online communicatie](https://qgis.nl/2020/12/10/communicatieplatform-gebruikersvereniging/) tussen de leden. 
