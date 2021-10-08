@@ -1,5 +1,5 @@
 ---
-title: A Nederlandse QGIS gebruikers
+title: Nederlandse QGIS gebruikersgroep
 summary: De Nederlandse QGIS community ondersteunt en promoot het gebruik en de ontwikkeling van QGIS.
 tags:
 - open source
