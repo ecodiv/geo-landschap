@@ -9,7 +9,7 @@ tags:
 date: "2021-09-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.osgeo.org"
+external_link: ""
 
 links:
 - icon: globe
@@ -37,3 +37,5 @@ url_video: ""
 #   slides: example
 ---
 
+The Open Source Geospatial Foundation (OSGeo) is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community driven development.
+QGIS is één van de projecten van OSGeo.org
