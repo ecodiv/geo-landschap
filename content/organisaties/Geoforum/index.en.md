@@ -33,4 +33,4 @@ url_video: ""
 #   slides: example
 ---
 
-Het geoforum wordt gezien als het centrale communicatie-platform van de Nederlandse open source geo gemeenschap. Het is een Nederlandstalig online forum voor alle vragen over geografische informatie en software. Hier worden door gebruikers ook evenementen en bijeenkomsten aangekondigd. Het geoforum wordt gezamenlijk beheerd door PDOK en [OSGeo.nl]({{<ref "/organisaties/OSGeo.nl" >}}). Geoforum is de opvolger van het PDOK forum.
+Het geoforum wordt gezien als het centrale communicatie-platform van de Nederlandse open source geo gemeenschap. Het is een Nederlandstalig online forum voor alle vragen over geografische informatie en software. Hier worden door gebruikers ook evenementen en bijeenkomsten aangekondigd. Het geoforum wordt gezamenlijk beheerd door PDOK en [OSGeo.nl]({{< ref "/organisaties/OSGeo.nl" >}} "OSGeo.nl"). Geoforum is de opvolger van het PDOK forum.
