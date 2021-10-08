@@ -39,6 +39,6 @@ url_video: ""
 
 Het QGIS project is een internationale door vrijwilligers gedreven open source software project. Het project wordt beheert door een Board en de project steering committee, welke worden gekozen door vertegenwoordigers van de landelijke QGIS verenigingen. Zie [dit document](https://www.qgis.org/en/site/getinvolved/governance/governance.html) voor meer informatie.
 
-Er zijn verschillende manieren waarop je deel kunt nemen aan de QGIS community. Zie [hier](https://www.qgis.org/en/site/getinvolved/governance/governance.html) voor een overzicht van de verschillende kanalen.
+Er zijn verschillende manieren waarop je deel kunt nemen aan de QGIS community. Zie [hier](https://www.qgis.org/en/site/getinvolved/index.html) voor een overzicht van de verschillende mogelijkheden om bij te dragen.
 
-Er is ook een online internationale QGIS Community Telegram groep ontstaan (begonnen als groep voor QGIS open Day sessies) Uitnodigingslink voor de Telegram groep is: https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ
+Er is ook een online internationale QGIS Community Telegram groep ontstaan (begonnen als groep voor QGIS open Day sessies). De uitnodigingslink voor de Telegram groep is: https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ
