@@ -1,6 +1,6 @@
 ---
 title: Geonovum
-summary: Stichting OpenGeo is een niet-commerciële instelling dat Werkt aan het vrij beschikbaar maken en houden van geografische informatie.
+summary: Geonovum is een overheidsstichting met veel kennis en een rijk netwerk.
 tags:
 - open source
 - geo
