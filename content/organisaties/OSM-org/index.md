@@ -16,7 +16,7 @@ links:
   icon_pack: fas
   name: Website
   url: https://wiki.osmfoundation.org/wiki/Main_Page
- - icon: twitter
+- icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/openstreetmap
