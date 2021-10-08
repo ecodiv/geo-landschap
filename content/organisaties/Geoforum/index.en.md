@@ -16,7 +16,7 @@ links:
   icon_pack: fas
   name: Website
   url: https://geoforum.nl
-
+  
 image:
   focal_point: Smart
 
