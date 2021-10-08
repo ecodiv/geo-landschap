@@ -1,6 +1,6 @@
 ---
 title: Stichting OpenGeo
-summary: Stichting OpenGeo is een niet-commerciële instelling dat Werkt aan het vrij beschikbaar maken en houden van geografische informatie.
+summary: Stichting OpenGeo is een niet-commerciële instelling die werkt aan het vrij beschikbaar maken en houden van geografische informatie.
 tags:
 - open source
 - geo
@@ -32,6 +32,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-Stichting OpenGeo is een niet-commerciële instelling met een onbezoldigd bestuur dat initiatieven stimuleert en faciliteert met betrekking tot het publiek beschikbaar stellen van geografische databanken. Ze verwezenlijken dit doel door het (laten) verzamelen van geografische databanken, het (laten) actualiseren van de in bezit zijnde geografische databanken en het (doen) ter beschikking stellen van geografische databanken in het semipublieke domein.” 
+Stichting OpenGeo is een niet-commerciële instelling met een onbezoldigd bestuur dat initiatieven stimuleert en faciliteert met betrekking tot het publiek beschikbaar stellen van geografische databanken. Ze verwezenlijken dit doel door het (laten) verzamelen van geografische databanken, het (laten) actualiseren van de in bezit zijnde geografische databanken en het (doen) ter beschikking stellen van geografische databanken in het semipublieke domein.
 
 De stichting Open Geo faciliteert onder andere de technische en administratieve infrastructuur van OpenStreetMap in Nederland.
