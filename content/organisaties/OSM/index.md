@@ -33,6 +33,6 @@ url_video: ""
 #   slides: example
 ---
 
-OpenStreetMap (OSM) wordt gemaakt door een gemeenschap van kaartenmakers die gegevens over wegen, paden, cafés, treinstations en nog veel meer, over de hele wereld bijdragen en onderhouden. Deze site en gerelateerde diensten worden namens de OpenStreetMap community beheerd door de [OpenStreetMap Foundation]({{< ref "/organisaties/OSM-org" >}} "QGIS").
+OpenStreetMap (OSM) wordt gemaakt door een gemeenschap van kaartenmakers die gegevens over wegen, paden, cafés, treinstations en nog veel meer, over de hele wereld bijdragen en onderhouden. Deze site en gerelateerde diensten worden namens de OpenStreetMap community beheerd door de [OpenStreetMap_Foundation]({{< ref "/organisaties/OSM-org" >}} "OpenStreetMap_Foundation").
 
 OpenStreetMap is open data: de gegevens mogen gebruiken voor ieder doel, als de naam van OpenStreetMap en haar bijdragers maar vermeldt wordt. Als u de gegevens wijzigt of uitbouwt op bepaalde manieren, dan mag het resultaat alleen onder dezelfde licentie verder verspreidt worden.
