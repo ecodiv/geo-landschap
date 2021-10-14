@@ -2,6 +2,7 @@
 # this is the main text at the top of the page
 widget: blank
 headless: true
+font_size: XS
 
 # ... Put Your Section Options Here (title etc.) ...
 title: 
@@ -10,7 +11,7 @@ weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-font_size: XS
+  
 ---
 
 Toen ik de wereld van open geo binnen stapte raakte ik al snel de weg kwijt in de actieve community. Er zijn organisaties die diensten aanbieden zoals software, fora of data-portalen. En er zijn diverse activiteiten door en voor de community zoals congressen, bijeenkomsten en bijpraatsessies. Veel daarvan heeft wel iets met de letters O S G E O in de naam en mij was lang niet altijd duidleijk wie nu wie is en wat doet. Vandaar het initiatief voor dit overzicht, met dank aan Paulo van Breugel voor de opzet van de site.
