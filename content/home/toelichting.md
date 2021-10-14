@@ -12,4 +12,5 @@ design:
   columns: '1'
 ---
 
-Hier komt nog een toelichting.
+Toen ik de wereld van open geo binnen stapte raakte ik al snel de weg kwijt in de actieve community. Er zijn organisaties die diensten aanbieden zoals software, fora of data-portalen. En er zijn diverse activiteiten door en voor de community zoals congressen, bijeenkomsten en bijpraatsessies. Veel daarvan heeft wel iets met de letters O S G E O in de naam en mij was lang niet altijd duidleijk wie nu wie is en wat doet. Vandaar het initiatief voor dit overzicht, met dank aan Paulo van Breugel voor de opzet van de site.
+Heeft u verbeteringen voor deze site? Mist u een organisatie, dienst of activiteit? Met een Github-account kan dat via pull-requests: https://github.com/ecodiv/geo-landschap en anders kunt u ook mailtje sturen naar jeroen@groenebij.nl
